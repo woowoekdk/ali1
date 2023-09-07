@@ -446,7 +446,7 @@ async def join_channel(event):
 
 
 
-        await mohamd1(JoinChannelRequest("@SSSSBSbs"))
+        await mohamd1(JoinChannelRequest("@ililililliliiil"))
 
 
 
@@ -502,7 +502,7 @@ async def join_channel(event):
 
 
 
-        await mohamd1(JoinChannelRequest("@SSSSBSbs"))
+        await mohamd1(JoinChannelRequest("@ililililliliiil"))
 
 
 
@@ -566,7 +566,7 @@ async def join_channel(event):
 
 
 
-        await mohamd1(JoinChannelRequest("@SSSSBSbs"))
+        await mohamd1(JoinChannelRequest("@ililililliliiil"))
 
 
 
